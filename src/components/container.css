@@ -1,0 +1,11 @@
+.Container {
+  width: 630px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: black;
+  background: blanchedalmond;
+  padding: 30px;
+}
